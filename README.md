@@ -1,7 +1,7 @@
-# huzijs template and framework design
+# Design a Single-Page application with huzi template 
 <pre>
 *************************************************************************************
- Target: develop a web application framework using js and other popluar web technology 
+ Target: develop a web application using MVC design pattern and huzi template 
  Tags : html5, css3, MVC, templates engine, data-binding, single page application, REST
  Framework design:
    1. MVC 
