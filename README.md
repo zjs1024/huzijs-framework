@@ -1,4 +1,4 @@
-# Design a Single-Page application with huzi template 
+# Design a Single-Page application with MVC design pattern and huzi template 
 <pre>
 *************************************************************************************
  Target: develop a web application using MVC design pattern and huzi template 
