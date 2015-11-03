@@ -26,7 +26,7 @@
                like the underscore library: _.isBlank, 
       _.profile: can be used for profile and security
       ...  
-   3. I created a jQuery plugin template engine called huzi.js, huzi is easy to use:
+   3. I created a jQuery plugin template engine called <a href="https://github.com/zjs1024/huzijs">huzi.js</a>, huzi is easy to use:
       . just like Mustache.js, it uses {{ }} to binding the data.
       . use string or html file as templates, binding js object to the templates
       . implement complicate logic: mixed with multi-level logical operations and loops  
